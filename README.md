@@ -24,7 +24,7 @@ L'objectif de ce projet est d'implémenter plusieurs outils permettant de crypta
 Les tests sont fournis et permettent de valider chaque étape du projet. 
 Pour exécuter un test :
 ```bash
-python3 ./test-1-cesar.py
+python3 test-1-cesar.py
 ```
 
 Chaque test valide une fonctionnalité spécifique :
